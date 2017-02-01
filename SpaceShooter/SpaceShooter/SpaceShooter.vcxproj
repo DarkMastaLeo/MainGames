@@ -128,7 +128,7 @@
     <ClInclude Include="comet.h" />
     <ClInclude Include="Explosion.h" />
     <ClInclude Include="GameObject.h" />
-    <ClInclude Include="global.h" />
+    <ClInclude Include="globals.h" />
     <ClInclude Include="Spaceship.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
